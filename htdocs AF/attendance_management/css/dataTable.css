@@ -1,0 +1,10 @@
+.table_container{
+    margin: auto;
+    /* padding-left: 15%; */
+    float: right;
+    width: 85%;
+    border: 2px solid black;
+}
+h2{
+    text-align: center;
+}

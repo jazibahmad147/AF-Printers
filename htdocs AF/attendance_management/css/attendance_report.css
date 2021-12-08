@@ -1,0 +1,9 @@
+.table_container{
+    margin: auto;
+    /* padding-left: 15%; */
+    float: right;
+    width: 85%; 
+}
+h2{
+    text-align: center;
+}
